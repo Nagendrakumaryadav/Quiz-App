@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).                                                                    
+Discription :-  This application is developed for educational purposes, allowing the users to prepare the multiple choice questions for different examinations          
+Tech Stack: React, Css.
 Hosted Link:- https://quiz-app-react-nagendra.netlify.app
 
